@@ -11,6 +11,7 @@
 if you want to write something inside this file ,we have to go inside that file so do: vim index.js
 to come out form that vim editor do: 1.press esc 2.:wq 3.hit enter
 :wq will save the file and exit from the vim terminal
+and if you want to make some changes press 'i' and you can add or edit the file
 
 <!-- ! a new version ---->a new commit -->
 
