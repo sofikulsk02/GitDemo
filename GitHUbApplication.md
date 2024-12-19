@@ -16,3 +16,16 @@ git remote add origin https://github.com/sofikulsk02/TypeScript.git
 ## return key is basically enter key
 
 ## to come out from the git log terminal press 'q'
+
+<!--! ###never do a forcefull push you will be fired from the company for sure -->
+
+## git pull origin master
+
+<!-- ^----------------------------------------------- -->
+
+## if we have two team members in a team always do
+
+1.git add
+2.git commit
+3.git pull
+4.git push
