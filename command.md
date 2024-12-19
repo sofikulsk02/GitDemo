@@ -17,4 +17,4 @@ and to see the conetent inside index.js :cat index.js
 
 <!-- ! a new version ---->a new commit -->
 
-untracted means
+untracted means :some changes we have
