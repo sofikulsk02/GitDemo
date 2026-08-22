@@ -1,6 +1,2 @@
-node_modules\n.DS_Store\nThumbs.db
-temp/*.tmp
+node_modules
 .env
-projecct
-temp/
-starter/*.py
