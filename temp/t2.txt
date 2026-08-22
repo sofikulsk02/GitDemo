@@ -1,1 +1,2 @@
 this is a temporary file for test 2
+this is a new line after the change removed the t1 file from tracking
